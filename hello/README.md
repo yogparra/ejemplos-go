@@ -11,6 +11,10 @@ ejecutar
 compilar
 >go build hello.go
 >./hello
+
+documentacion
+godoc -http :8080
+http://localhost:8080/pkg/
 ```
 
 # Go y tdd
